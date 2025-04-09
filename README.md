@@ -1,5 +1,6 @@
 # LittleLemon
 Capstone Project for the Meta Back-end Development Course
 
-restaurant/menu/
-restaurant/booking/
+1. restaurant/menu/
+
+2. restaurant/booking/
